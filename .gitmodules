@@ -1,3 +1,3 @@
 [submodule "backend-services/account/topdiner-account-user-self-registration-bff-service"]
 	path = backend-services/account/topdiner-account-user-self-registration-bff-service
-	url = ../topdiner-account-user-self-registeration-bff-service
+	url = ../topdiner-account-user-self-registration-bff-service
